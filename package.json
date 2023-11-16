@@ -1,6 +1,6 @@
 {
     "name": "generate-i18n-files",
-    "version": "1.0.5",
+    "version": "1.0.6",
     "description": "This is a powerful tool to create multilingual files from xlsx files.",
     "main": "index.js",
     "homepage": "https://github.com/OhmidasVN/generate-localization-file",
